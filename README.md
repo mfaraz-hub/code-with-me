@@ -1,0 +1,1 @@
+This is a html website for CA1 Assignment of WDW. The assignment consists creating a website for sharing different artforms by adding info, relevant images, and external links also tables. I have completed this assignment with full dedication and it also took great amount of hardwork.
